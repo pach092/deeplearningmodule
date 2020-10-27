@@ -16,11 +16,10 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 ## Literatura
 
 <p float="left">
-[comment]: <> align="middle"
-  <img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" />
-  <img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" /> 
-  <img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" />
-  <img src="/_aditionalmaterial/books/_pics/MurphyMachine Learning.jpg" width="100" />
+  <img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/MurphyMachine Learning.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
 </p>
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/marcoteran/deeplearningmodule.svg)](https://github.com/marcoteran/deeplearningmodule/blob/master/LICENSE)
