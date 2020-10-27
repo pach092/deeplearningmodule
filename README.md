@@ -16,7 +16,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 ## Literatura
 
 <p float="left">
-	[![alt text](/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg)](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+	[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
   [<img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" alt="Christopher M. Bishop - Pattern Recognition and Machine Learning" title="Christopher M. Bishop - Pattern Recognition and Machine Learning" hspace="20"/>](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
   [<img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" alt="Richard O. Duda - Pattern classification" title="Richard O. Duda - Pattern classification" hspace="20"/>](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Richard%20O.%20Duda%20-%20Pattern%20classification.pdf)
   [<img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Ian Goodfellow - Deep Learning" title="Ian Goodfellow - Deep Learning" hspace="20"/>](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Ian%20Goodfellow%20-%20Deep%20Learning.pdf)
