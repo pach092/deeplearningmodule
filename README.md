@@ -6,11 +6,11 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 
 
 ## Contenido
-1. Aprendizaje no supervisado: k-means
+1. **Aprendizaje no supervisado: *k*-means**
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/01_deeplearining_unsupervisedlearning.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/01_unsupervisedlearning_kmeans/01_unsupervisedlearning_kmeans.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/01_unsupervisedlearning_kmeans/01_unsupervisedlearning_kmeans.ipynb)
 	
-1. Introducción al Deep Learning: Redes neuronales
+1. **Introducción al Deep Learning: *Redes neuronales***
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/02_deeplearining_introtodeepLearning_DNN.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/02_introtodeeplearning_MLP/02_deepleaningintroduction_DNN.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/02_introtodeeplearning_MLP/02_deepleaningintroduction_DNN.ipynb)
 
