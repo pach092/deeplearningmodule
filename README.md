@@ -17,14 +17,9 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 
 <p float="left">
 
-[![Christopher M. Bishop - Pattern Recognition and Machine Learning](/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg)](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
-
 [<img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" alt="Christopher M. Bishop - Pattern Recognition and Machine Learning" title="Christopher M. Bishop - Pattern Recognition and Machine Learning" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Christopher%20M.%20Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
-
 [<img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" alt="Richard O. Duda - Pattern classification" title="Richard O. Duda - Pattern classification" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Richard%20O.%20Duda%20-%20Pattern%20classification.pdf)
-
 [<img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Ian Goodfellow - Deep Learning" title="Ian Goodfellow - Deep Learning" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Ian%20Goodfellow%20-%20Deep%20Learning.pdf)
-
 [<img src="/_aditionalmaterial/books/_pics/MurphyMachine Learning.jpg" width="100" alt="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" title="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" hspace="20">](https://github.com/marcoteran/deeplearningmodule/raw/main/_aditionalmaterial/books/Kevin%20P.%20Murphy%20-%20Machine%20Learning_%20A%20Probabilistic%20Perspective.pdf)
 </p>
 
