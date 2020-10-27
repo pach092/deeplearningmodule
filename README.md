@@ -16,7 +16,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 ## Literatura
 
 <p float="left">
-[comment]: align="middle"
+[comment]: <> align="middle"
   <img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" />
   <img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" /> 
   <img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" />
