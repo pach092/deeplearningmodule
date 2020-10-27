@@ -13,6 +13,15 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/02_deeplearining_introtodeepLearning_DNN.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/02_introtodeeplearning_MLP/02_deepleaningintroduction_DNN.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/02_introtodeeplearning_MLP/02_deepleaningintroduction_DNN.ipynb)
 
+## Literatura
+
+<p align="middle">
+  <img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" />
+  <img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" /> 
+  <img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" />
+  <img src="/_aditionalmaterial/books/_pics/MurphyMachine Learning.jpg" width="100" />
+</p>
+
 ## Licence [![GitHub license](https://img.shields.io/github/license/marcoteran/deeplearningmodule.svg)](https://github.com/marcoteran/deeplearningmodule/blob/master/LICENSE)
 
 Licenced under the [MIT License](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
