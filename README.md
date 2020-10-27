@@ -1,4 +1,4 @@
-[![banner](/_assets/pics/bannerAI.png)](https://github.com/marcoteran/deeplearningmodule)
+[![banner](/_assets/pics/bannerAI.jpg)](https://github.com/marcoteran/deeplearningmodule)
 # Modulo Deep Learning
 ## Aprendizaje no supervisado e introducción al aprendizaje profundo
 
