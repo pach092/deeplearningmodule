@@ -16,10 +16,10 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 ## Literatura
 
 <p float="left">
-  <img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
-  <img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
-  <img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
-  <img src="/_aditionalmaterial/books/_pics/MurphyMachine Learning.jpg" width="100" alt="Made with Angular" title="Angular" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/BishopPattern Recognition.jpg" width="100" alt="Christopher M. Bishop - Pattern Recognition and Machine Learning" title="Christopher M. Bishop - Pattern Recognition and Machine Learning" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/DudaPatternclassification.jpg" width="100" alt="Richard O. Duda - Pattern classification" title="Richard O. Duda - Pattern classification" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/IanGoodfellowDeepLearning.jpg" width="100" alt="Ian Goodfellow - Deep Learning" title="Ian Goodfellow - Deep Learning" hspace="20"/>
+  <img src="/_aditionalmaterial/books/_pics/MurphyMachine Learning.jpg" width="100" alt="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" title="Kevin P. Murphy - Machine Learning_ A Probabilistic Perspective" hspace="20"/>
 </p>
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/marcoteran/deeplearningmodule.svg)](https://github.com/marcoteran/deeplearningmodule/blob/master/LICENSE)
