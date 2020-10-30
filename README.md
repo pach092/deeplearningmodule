@@ -19,8 +19,8 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/03_convolutionalneuralnetwork/03_convolutionalneuralnetwork.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/03_convolutionalneuralnetwork/03_convolutionalneuralnetwork.ipynb)
 
 2. **Deep Learning: *Redes neuronales recurrentes***
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/03_deeplearining_convolutionalneuralnetworks.pdf)
-	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/03_convolutionalneuralnetwork/03_convolutionalneuralnetwork.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/03_convolutionalneuralnetwork/03_convolutionalneuralnetwork.ipynb)	
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/04_deeplearining_recurrentneuralnetworks)
+	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/04_recurrentneuralnetworks/04_recurrentneuralnetworks.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/04_recurrentneuralnetworks/04_recurrentneuralnetworks.ipynb)	
 	
 
 ## Literatura
