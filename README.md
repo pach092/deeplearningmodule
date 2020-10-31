@@ -24,7 +24,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 
 
 ## Instalar TensorFlow
-* [Cómo Instala TensorFlow 2](https://www.tensorflow.org/install?hl=es-419)
+* [Cómo instalar TensorFlow 2](https://www.tensorflow.org/install?hl=es-419)
 	* [TensorFlow Installation | Step By Step Guide to Install TensorFlow on Windows | Video](https://www.youtube.com/watch?v=s4Lcf9du9L8)
 
 ## Literatura
