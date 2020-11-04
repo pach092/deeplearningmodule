@@ -7,25 +7,25 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 
 ## Contenido
 1. **Aprendizaje no supervisado: *k*-means**
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/01_deeplearining_unsupervisedlearning.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/01_deeplearning_unsupervisedlearning.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/01_unsupervisedlearning_kmeans/01_unsupervisedlearning_kmeans.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/01_unsupervisedlearning_kmeans/01_unsupervisedlearning_kmeans.ipynb)
 	
 2. **Introducción al Deep Learning: *Redes neuronales***
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/02_deeplearining_introtodeepLearning_DNN.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/02_deeplearning_introtodeepLearning_DNN.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/02_introtodeeplearning_MLP/02_deepleaningintroduction_DNN.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/02_introtodeeplearning_MLP/02_deepleaningintroduction_DNN.ipynb)
 
 3. **Deep Learning: *Redes neuronales convolucionales***
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/03_deeplearining_convolutionalneuralnetworks.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/03_deeplearning_convolutionalneuralnetworks.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/03_convolutionalneuralnetwork/03_convolutionalneuralnetwork.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/03_convolutionalneuralnetwork/03_convolutionalneuralnetwork.ipynb)
 
 4. **Deep Learning: *Redes neuronales recurrentes***
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/04_deeplearining_recurrentneuralnetworks.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/04_deeplearning_recurrentneuralnetworks.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/04_recurrentneuralnetworks/04_recurrentneuralnetworks.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/04_recurrentneuralnetworks/04_recurrentneuralnetworks.ipynb)
 
 
 
 5. **Deep Learning: *Generative Adversarial Networks***
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/05_deeplearining_generativeadversarialnetworks.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/05_deeplearning_generativeadversialnetworks.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb)
 
 
