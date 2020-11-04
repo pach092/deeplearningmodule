@@ -26,7 +26,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 
 5. **Deep Learning: *Generative Adversarial Networks***
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/05_deeplearining_generativeadversarialnetworks.pdf)
-	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb.ipynb)
+	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb) [![Abri en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb)
 
 
 ## Instalar TensorFlow
