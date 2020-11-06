@@ -29,7 +29,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/05_generativeadversialnetworks/05_generativeadversialnetworks.ipynb)
 
 5. **Deep Learning: *Data aumentation and transfer learning***
-	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/05_deeplearning_generativeadversialnetworks.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearningmodule/raw/main/06_deeplearning_summary.pdf)
 	* IPython Notebook [aquí](https://github.com/marcoteran/deeplearningmodule/blob/main/06_dataaugmentationandtransferlearning/06_dataaugmentationandtransferlearning.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearningmodule/blob/main/06_dataaugmentationandtransferlearning/06_dataaugmentationandtransferlearning.ipynb)
 
 
